@@ -45,7 +45,7 @@ That's it. You now have a Jekyll-enabled minimal devcontainer, and is ready to s
 
 To create a Jekyll project, run `jekyll new . --force`, and Jekyll will generate a project and its prerequisites in this directory based on [site template][site-template-path].
 
-To test your site locally, press `F1` and run task `live-serve`. This starts a Jekyll server and generate your static site. You should see the content in your favorite browser at [localhost:4000](http://localhost:4000).
+To test your site locally, press `F1` and run task `jekyll serve`. This starts a Jekyll server and generate your static site. You should see the content in your favorite browser at [localhost:4000](http://localhost:4000).
 
 To experiment with this devcontainer, you can directly reference [@kosalanuwan's developer journal notes][journal-notes].
 
